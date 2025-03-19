@@ -5,10 +5,10 @@
 ## Rotas
 
 <table>
-<th>
-  <td>Verbo</td>
-  <td>Rota</td>
-</th>
+<tr>
+  <th>Verbo</th>
+  <th>Rota</th>
+</tr>
   
 </table>
 
