@@ -18,7 +18,7 @@
   <td>/receitas</td>
 </tr>
   <tr>
-  <td>PU</td>
+  <td>PUT</td>
   <td>/receitas</td>
 </tr>
 <tr>
