@@ -2,6 +2,8 @@
 
 ## Sobre
 
+Projeto final da turma de Análise e desenvolvimento de sistema
+
 ## Rotas
 
 <table>
@@ -29,4 +31,8 @@
 </table>
 
 ## Tecnologias
+
+- Spring Boot
+- React
+- Postgres
 
