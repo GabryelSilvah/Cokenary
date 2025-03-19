@@ -15,14 +15,14 @@
 </tr>
   <tr>
   <td>POST</td>
-  <td>/receitas</td>
+  <td>/receitas/{id}</td>
 </tr>
   <tr>
   <td>PUT</td>
-  <td>/receitas</td>
+  <td>/receitas/{id}</td>
 </tr>
 <tr>
-  <td>DELETE</td>
+  <td>DELETE/{id}</td>
   <td>/receitas</td>
 </tr>
   
