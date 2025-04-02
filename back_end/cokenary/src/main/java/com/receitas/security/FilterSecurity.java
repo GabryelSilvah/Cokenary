@@ -35,6 +35,8 @@ public class FilterSecurity {
                         .requestMatchers(HttpMethod.GET, "/auth").permitAll()
                         .requestMatchers(HttpMethod.POST, "/auth").permitAll()
                         .requestMatchers(HttpMethod.POST, "/user").permitAll()
+                        .requestMatchers(HttpMethod.GET, "/listar_funcionario").permitAll()
+                        .requestMatchers(HttpMethod.POST, "cadastrar_funcionario").permitAll()
                         .anyRequest().authenticated()
                 )
                 .addFilterBefore(validarToken, UsernamePasswordAuthenticationFilter.class)
